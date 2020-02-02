@@ -15,7 +15,15 @@ y = "7"
 
 # YOUR CODE HERE
 
+i = x+int(y)
+print(i)
+print(type(i))
 
 # Write a print statement that combines x + y into the string value 57
-
+ 
 # YOUR CODE HERE
+
+x + 45
+s = str(x)+y
+print(s)
+print(type(s))
